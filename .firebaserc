@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "slab-100df": {
+      "hosting": {
+        "pd-free-angularcli": [
+          "slab-100df"
+        ]
+      }
+    }
+  }
+}
